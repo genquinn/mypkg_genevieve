@@ -7,7 +7,7 @@
 <!-- badges: end -->
 
 The goal of my1stRpkg is to demonstrate R packages, git and github as a
-PHDS student
+PHDS student and solve problems
 
 ## Installation
 
